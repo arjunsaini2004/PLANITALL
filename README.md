@@ -2,11 +2,11 @@
 
 ## 🌟 Features
 
-- User registration and login
+
 - Create, edit, and delete events
 - Event registration and booking
 - Admin dashboard for managing all events and users
-- Email notifications for event reminders
+
 - Responsive UI for mobile and desktop
 
 ## 🛠️ Tech Stack
