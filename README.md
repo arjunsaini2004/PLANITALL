@@ -22,10 +22,11 @@
    ```bash
    git clone https://github.com/your-username/event-management-system.git
    cd event-management-system
+   ```
 
    write this command on you bash to install dependencies.
    ```bash
-   mpn i
+   npm i
    ```
    then run the server throgh
    ```bash
