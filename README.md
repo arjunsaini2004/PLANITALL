@@ -12,9 +12,7 @@
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React/Bootstrap)
-- **Backend**: Node.js / Express / Django / Laravel *(Choose accordingly)*
-- **Database**: MongoDB / MySQL / PostgreSQL *(Choose accordingly)*
-- **Authentication**: JWT / OAuth / Firebase Auth *(Choose accordingly)*
+  
 
 ## 🚀 How to Run Locally
 
